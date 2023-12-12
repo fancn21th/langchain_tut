@@ -15,8 +15,12 @@ which python # 应该输出 以下内容 指向 anaconda 的安装位置
 
 ## vscode
 
-当然 jupyter notebook 可以直接通过 anaconda 里面的 `jupyter notebook` web 服务器 运行.
+- jupyter notebook 可以直接通过 anaconda 里面的 `JupyterLab` 环境中运行.
 
-也可以直接在 vscode 中运行
+  ![JupyterLab](../assets/JupeterLab.png)
+
+- 亦可以直接在 vscode 中运行
+
+  安装 `ms-toolsai.jupyter` 插件
 
 ## 🚀 you are now good to go
